@@ -67,15 +67,11 @@ Direct experimental validation was not performed because a matching reference ge
 
 This project was developed as part of a **FOSSEE, IIT Bombay** semester-long internship selection task.
 
-## Repository Structure
+## Repository Structure & Quick Links
 
-```text
-.
-├── README.md
-├── report/
-│   └── Dhruva_C_Fluid_Mech_FOSSEE.pdf
-├── cases/
-│   ├── Re60/
-│   ├── Re80/
-│   └── Re100/
-└── results/
+* 📄 **[Full Project Report](report/Dhruva_C_Fluid_Mech_FOSSEE.pdf)**
+* 📁 **[OpenFOAM Cases](cases/)**
+  * [Re = 60 Setup](cases/Re60/)
+  * [Re = 80 Setup](cases/Re80/)
+  * [Re = 100 Setup](cases/Re100/)
+* 📊 **[Results Directory](results/)**
