@@ -63,6 +63,10 @@ The reported global continuity error was approximately **−9.24 × 10⁻¹⁶**
 
 Direct experimental validation was not performed because a matching reference geometry and Reynolds-number definition could not be established with sufficient confidence.
 
+## Disclaimer
+
+This project was developed as part of a **FOSSEE, IIT Bombay** semester-long internship selection task.
+
 ## Repository Structure
 
 ```text
