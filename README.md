@@ -78,5 +78,4 @@ This project was developed as part of a **FOSSEE, IIT Bombay** semester-long int
 │   ├── Re60/
 │   ├── Re80/
 │   └── Re100/
-├── scripts/
 └── results/
