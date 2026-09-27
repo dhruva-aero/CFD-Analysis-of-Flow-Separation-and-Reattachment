@@ -1,3 +1,4 @@
+![Flow field](results/streamlines_Re100.png)
 # CFD-Analysis-of-Flow-Separation-and-Reattachment
 A 2D CFD study of steady, laminar, incompressible flow through an asymmetric channel with inclined expansion and contraction, performed using **OpenFOAM v14**.
 
